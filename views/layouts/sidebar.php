@@ -7,6 +7,7 @@
                   <li><a><i class="fa fa-users"></i>Usuarios<span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">                    
                       <li><a href="<?php echo BASE_URL();?>Usuarios/index">Listas</a></li>
+                      <li><a href="<?php echo BASE_URL();?>Roles/index">Roles</a></li>
                     </ul>
                   </li>
                   <li><a><i class="fa fa-table"></i>Catalogos<span class="fa fa-chevron-down"></span></a>
