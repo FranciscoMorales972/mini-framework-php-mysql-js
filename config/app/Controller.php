@@ -9,7 +9,7 @@ class Controller
     public function cargarModel()
     {
         $model=get_class($this)."Model";//se toma el nombre de la clase del controllador que se invoco y se le agregar 'Model'
-        $ruta= "Models/".$model.".php"; // se crea la ruta del archivo del modelo
+        $ruta= "models/".$model.".php"; // se crea la ruta del archivo del modelo
 
         if (file_exists($ruta)) {
             require_once $ruta;//si el modelo existe en la carpeta models se invoca

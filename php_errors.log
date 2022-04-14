@@ -188,3 +188,26 @@
 [14-Apr-2022 01:02:29 Europe/Berlin] Aplicacion Web Iniciada
 [14-Apr-2022 01:02:29 Europe/Berlin] Aplicacion Web Iniciada
 [14-Apr-2022 01:02:29 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 02:18:51 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 02:18:51 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 02:18:51 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 02:18:51 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 02:18:51 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 03:50:24 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 03:50:24 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 03:50:24 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 03:50:24 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 03:50:24 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 03:50:28 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 03:50:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method RolesModel::litarRoles() in C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Roles.php:12
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(36): Roles->index('')
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Roles.php on line 12
+[14-Apr-2022 03:50:52 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 03:50:52 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 03:50:52 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 03:50:52 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 03:50:52 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 03:50:52 Europe/Berlin] Aplicacion Web Iniciada
