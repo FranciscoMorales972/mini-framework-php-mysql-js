@@ -137,6 +137,8 @@
                   </div>
                   <div class="x_content">
                      <?php arrayFormatter($data["roles"]);?>
+                     
+
                   </div>
                 </div>
               </div>

@@ -211,3 +211,134 @@ Stack trace:
 [14-Apr-2022 03:50:52 Europe/Berlin] Aplicacion Web Iniciada
 [14-Apr-2022 03:50:52 Europe/Berlin] Aplicacion Web Iniciada
 [14-Apr-2022 03:50:52 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:02:29 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:02:29 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:02:29 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:02:29 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:02:29 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:02:29 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:02:31 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:02:31 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:02:31 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:02:31 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:02:31 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:02:31 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:02:31 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:08:52 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:08:52 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:08:52 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:08:52 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:08:52 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:08:52 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:08:52 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:10:03 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:10:04 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:10:04 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:10:04 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:10:04 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:10:04 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:14:36 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:14:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php(18): Models->getData('SELECT * FROM t...')
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Roles.php(12): RolesModel->listarRoles()
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(36): Roles->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php on line 18
+[14-Apr-2022 04:15:29 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:15:29 Europe/Berlin] PHP Notice:  Undefined property: RolesModel::$model in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php on line 18
+[14-Apr-2022 04:15:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getData() on null in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Roles.php(12): RolesModel->listarRoles()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(36): Roles->index('')
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php on line 18
+[14-Apr-2022 04:30:55 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:30:55 Europe/Berlin] PHP Notice:  Undefined property: RolesModel::$model in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php on line 18
+[14-Apr-2022 04:30:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getData() on null in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Roles.php(12): RolesModel->listarRoles()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(36): Roles->index('')
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php on line 18
+[14-Apr-2022 04:30:57 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:30:57 Europe/Berlin] PHP Notice:  Undefined property: RolesModel::$model in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php on line 18
+[14-Apr-2022 04:30:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getData() on null in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Roles.php(12): RolesModel->listarRoles()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(36): Roles->index('')
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php on line 18
+[14-Apr-2022 04:30:58 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:30:58 Europe/Berlin] PHP Notice:  Undefined property: RolesModel::$model in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php on line 18
+[14-Apr-2022 04:30:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getData() on null in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Roles.php(12): RolesModel->listarRoles()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(36): Roles->index('')
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php on line 18
+[14-Apr-2022 04:30:58 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:30:58 Europe/Berlin] PHP Notice:  Undefined property: RolesModel::$model in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php on line 18
+[14-Apr-2022 04:30:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getData() on null in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Roles.php(12): RolesModel->listarRoles()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(36): Roles->index('')
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php on line 18
+[14-Apr-2022 04:30:58 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 04:30:58 Europe/Berlin] PHP Notice:  Undefined property: RolesModel::$model in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php on line 18
+[14-Apr-2022 04:30:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getData() on null in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Roles.php(12): RolesModel->listarRoles()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(36): Roles->index('')
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php on line 18
+[14-Apr-2022 05:37:24 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:37:24 Europe/Berlin] PHP Notice:  Undefined property: RolesModel::$model in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php on line 18
+[14-Apr-2022 05:37:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getData() on null in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Roles.php(12): RolesModel->listarRoles()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(36): Roles->index('')
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php on line 18
+[14-Apr-2022 05:39:15 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:39:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php:20
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\models\RolesModel.php(18): Models->getAllData('SELECT * FROM t...')
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Roles.php(12): RolesModel->listarRoles()
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(36): Roles->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php on line 20
+[14-Apr-2022 05:39:44 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:39:44 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:39:44 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:39:44 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:39:44 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:39:44 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:41:02 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:41:02 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:41:02 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:41:02 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:41:02 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:41:02 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:59:57 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:59:57 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:59:57 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:59:57 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:59:57 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 05:59:57 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 06:00:19 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 06:00:19 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 06:00:19 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 06:00:19 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 06:00:19 Europe/Berlin] Aplicacion Web Iniciada
+[14-Apr-2022 06:00:19 Europe/Berlin] Aplicacion Web Iniciada
