@@ -1,6 +1,6 @@
 <?php
 
-class Roles extends Controller 
+class Home extends Controller 
 {
     public function __construct ()   {
         parent::__construct();
@@ -8,9 +8,7 @@ class Roles extends Controller
 
     public function index()
     {
-        $data=["page_name"=>"Roles de Usuarios",
-                "roles"=>RolesModel::listEqual("tbl_roles",["rolID"=>1],1)
-            ];
+        $data=["page_name"=>"Home Page"];
         $this->view->getView($this,"index",$data);
     }
 }

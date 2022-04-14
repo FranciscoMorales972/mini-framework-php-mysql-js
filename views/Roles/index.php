@@ -136,7 +136,7 @@
                     <div class="clearfix"></div>
                   </div>
                   <div class="x_content">
-                     <?php arrayFormatter($data["roles"]);?>
+                     <?php arrayFormatter($data);?>
                      
 
                   </div>

@@ -1,34 +1,39 @@
 <?php
 
-class Models
+class Models extends Conexion
 {
     
-    private $conection;
-    private $values;
-    private $query;
-    public function __construct()
-    {
-       $this->conection=new Conexion();
-       $this->conection= $this->conection->conectar();
-    }
-
-
-
-    public function getAllData(string $query)
-    {
-        $this->query=$query;
-        $sql= $this->conection->prepare($this->query);
-        $sql->execute();
-
-        $datos=$sql->fetchAll(PDO::FETCH_ASSOC);
-
-
-        return $datos;
-
-
-
-    }
+  // listar registros desde la base de datos o un solo registro
    
+  public static function listEqual($tabla,$params=[],$limit=null)
+  {
+    $cols_values="";
+    $limites="";
+    
+    
+    if (!empty($params)) {
+        $cols_values .="WHERE ";
+
+        foreach ($params as $key => $key) {
+            $cols_values .="{$key} = :{$key} AND";
+        }
+
+        $cols_values = substr($cols_values,0,-3);
+    }
+    if ($limit !==null) {
+        $limites = "LIMIT {$limit}";
+    }
+
+    $stmt="SELECT *FROM $tabla {$cols_values} {$limites}";
+
+
+    //llamamos la conexion a la base de datos
+
+    if (!$rows = parent::query($stmt,$params)) {
+        return false;
+    }
+    return $limit ===1 ? $rows[0] : $rows;
+  }
 }//Fin de la Clase
 
 
