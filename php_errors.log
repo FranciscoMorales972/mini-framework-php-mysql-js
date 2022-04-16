@@ -491,3 +491,266 @@ Stack trace:
 [16-Apr-2022 02:15:45 Europe/Berlin] Aplicacion Web Iniciada
 [16-Apr-2022 02:15:45 Europe/Berlin] Aplicacion Web Iniciada
 [16-Apr-2022 02:15:45 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 04:02:40 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 04:02:41 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 04:02:41 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 04:02:41 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 04:02:41 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:15:44 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:15:49 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:16:06 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:16:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Productos' not found in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php:34
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php on line 34
+[16-Apr-2022 05:16:35 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:16:35 Europe/Berlin] PHP Warning:  require_once(views/Productos/index.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 13
+[16-Apr-2022 05:16:35 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'views/Productos/index.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 13
+[16-Apr-2022 05:16:56 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:16:56 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:16:56 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:16:56 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:16:56 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:16:56 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:17:47 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:17:47 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:17:47 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:17:47 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:17:47 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:17:47 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:20:26 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:20:26 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:20:26 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:20:26 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:20:26 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:20:26 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:20:32 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:20:32 Europe/Berlin] PHP Warning:  Illegal string offset 'page_name' in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\layouts\header.php on line 11
+[16-Apr-2022 05:20:32 Europe/Berlin] PHP Notice:  Uninitialized string offset: 0 in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\layouts\header.php on line 11
+[16-Apr-2022 05:20:32 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Roles\index.php on line 101
+[16-Apr-2022 05:20:32 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Roles\index.php on line 122
+[16-Apr-2022 05:20:32 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:20:32 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:20:32 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:20:32 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:20:32 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:20:32 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:22:26 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:22:26 Europe/Berlin] PHP Warning:  Illegal string offset 'page_name' in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\layouts\header.php on line 11
+[16-Apr-2022 05:22:26 Europe/Berlin] PHP Notice:  Uninitialized string offset: 0 in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\layouts\header.php on line 11
+[16-Apr-2022 05:22:26 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:22:26 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:22:26 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:22:26 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:22:26 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:22:26 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:22:55 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:22:55 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:22:55 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:22:55 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:22:55 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:22:55 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:23:08 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:37:23 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:37:23 Europe/Berlin] PHP Warning:  require_once(views/Errores/404.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 13
+[16-Apr-2022 05:37:23 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'views/Errores/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 13
+[16-Apr-2022 05:37:59 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:39:38 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:39:38 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:39:38 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:39:38 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:39:38 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:41:54 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:42:37 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:43:44 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:43:46 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:43:46 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:43:48 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:43:48 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:43:48 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:43:48 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:43:48 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:43:48 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:43:48 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:43:58 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:00 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:00 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:37 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:38 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:40 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:40 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:40 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:40 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:40 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:40 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:47 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:49 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:49 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:52 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:52 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:52 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:52 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:52 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:52 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:52 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:55 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:55 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:55 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:55 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:55 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:44:55 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:04 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:07 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:07 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:46 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:46 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:47 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:48 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:48 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:48 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:48 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:48 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:57 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:57 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:57 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:57 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:57 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:45:57 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:46:34 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:46:34 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:46:34 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:46:34 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:46:34 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:46:34 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:36 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:36 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:36 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:36 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:36 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:36 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:39 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:39 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:39 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:39 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:39 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:39 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:39 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:45 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:45 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:45 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:46 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:46 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:46 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:47:46 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:55:10 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:55:10 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:55:10 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:55:10 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:55:10 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:55:10 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 05:55:10 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:18:14 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:18:14 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Unknown column 'tbl_productos.categoriID' in 'on clause' in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php(64): Conexion::query('SELECT *FROM tb...', Array)
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Productos.php(12): Models::joinTable('tbl_productos', 'tbl_categorias', 'categoriID', 'categoriaID')
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(35): Productos->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 54
+[16-Apr-2022 06:18:34 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:18:34 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:18:34 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:18:34 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:18:34 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:18:34 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:21:22 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:21:22 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:21:22 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:21:22 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:21:22 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:21:22 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:23:42 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:23:42 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Column 'categoriaID' in where clause is ambiguous in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php(64): Conexion::query('SELECT *FROM tb...', Array)
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Productos.php(12): Models::joinTable('tbl_productos', 'tbl_categorias', 'categoriaID', 'categoriaID', Array)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(35): Productos->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 54
+[16-Apr-2022 06:24:25 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:24:25 Europe/Berlin] PHP Fatal error:  Uncaught Exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE categoriaID = '1'' at line 3 in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php(64): Conexion::query('SELECT *FROM tb...', Array)
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Productos.php(12): Models::joinTable('tbl_productos', 'tbl_categorias', 'categoriaID', 'categoriaID', Array)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(35): Productos->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 54
+[16-Apr-2022 06:25:04 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:25:04 Europe/Berlin] PHP Fatal error:  Uncaught Exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE categoriaID = '1'' at line 3 in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php(64): Conexion::query('SELECT *FROM tb...', Array)
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Productos.php(12): Models::joinTable('tbl_productos', 'tbl_categorias', 'categoriaID', 'categoriaID', Array)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(35): Productos->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 54
+[16-Apr-2022 06:25:58 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:25:58 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Column 'categoriaID' in where clause is ambiguous in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php(64): Conexion::query('SELECT *FROM tb...', Array)
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Productos.php(12): Models::joinTable('tbl_productos', 'tbl_categorias', 'categoriaID', 'categoriaID', Array)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(35): Productos->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 54
+[16-Apr-2022 06:29:08 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:29:08 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Column 'categoriaID' in where clause is ambiguous in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php(64): Conexion::query('SELECT *FROM tb...', Array)
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Productos.php(12): Models::joinTable('tbl_productos', 'tbl_categorias', 'categoriaID', 'categoriaID', Array)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(35): Productos->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 54
+[16-Apr-2022 06:29:28 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:29:28 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Column 'categoriaID' in where clause is ambiguous in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php(64): Conexion::query('SELECT *FROM tb...', Array)
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Productos.php(12): Models::joinTable('tbl_productos', 'tbl_categorias', 'categoriaID', 'categoriaID', Array, 1)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(35): Productos->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 54
+[16-Apr-2022 06:30:25 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:30:25 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:30:25 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:30:25 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:30:25 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:30:25 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:31:13 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:31:13 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 51
+[16-Apr-2022 06:31:13 Europe/Berlin] PHP Fatal error:  Uncaught Exception in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php(64): Conexion::query('SELECT *FROM tb...', Array)
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Productos.php(12): Models::joinTable('tbl_productos', 'tbl_categorias', 'categoriaID', 'categoriaID', Array, 1)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(35): Productos->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 54
+[16-Apr-2022 06:32:41 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:32:41 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:32:41 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:32:41 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:32:41 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:32:41 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:32:59 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:32:59 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:32:59 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:32:59 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:32:59 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:32:59 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 06:32:59 Europe/Berlin] Aplicacion Web Iniciada

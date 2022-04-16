@@ -38,7 +38,7 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a href="<?php echo base_url()?>/Dashboard"class="nav-link">Dashboard</a>
+          <a href="<?php echo base_url()?>Dashboard"class="nav-link">Dashboard</a>
         </li>
       </ul>
       <form class="d-flex">

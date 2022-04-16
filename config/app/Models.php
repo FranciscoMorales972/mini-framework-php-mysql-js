@@ -35,6 +35,38 @@ class Models extends Conexion
     return $limit ===1 ? $rows[0] : $rows;
   }
 
+  public static function  joinTable($tabla1,$tabla2,$value1,$value2,$params=[],$limit=null)
+  {//SELECT
+    $cols_values="";
+    $limites="";
+    
+    
+    if (!empty($params)) {
+        $cols_values .="WHERE ";
+
+        foreach ($params as $key => $key) {
+            $cols_values .="{$key} = :{$key} AND";
+        }
+
+        $cols_values = substr($cols_values,0,-3);
+    }
+    if ($limit !==null) {
+        $limites = "LIMIT {$limit}";
+    }
+
+    $stmt="SELECT *FROM $tabla1
+    INNER JOIN $tabla2
+    on $tabla1.$value1=$tabla2.$value2 {$cols_values} {$limites}";
+
+      echo $stmt;
+    //llamamos la conexion a la base de datos
+
+    if (!$rows = parent::query($stmt,$params)) {
+        return false;
+    }
+    return $limit ===1 ? $rows[0] : $rows;
+  }
+
 
 
   public static function insert($table,$params)

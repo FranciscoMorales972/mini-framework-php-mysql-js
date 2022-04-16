@@ -1,5 +1,5 @@
-
 <?php headerAdmin($data);?>
+
 <!-- top navigation -->
 <div class="top_nav">
             <div class="nav_menu">
@@ -136,9 +136,7 @@
                     <div class="clearfix"></div>
                   </div>
                   <div class="x_content">
-                     <?php arrayFormatter($data);?>
-                     
-
+                      <?php arrayFormatter($data)?>
                   </div>
                 </div>
               </div>

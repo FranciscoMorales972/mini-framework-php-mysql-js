@@ -1,5 +1,4 @@
 <?php
-
 class App
 {
     public function __construct()
@@ -35,10 +34,16 @@ class App
             if(method_exists($controlador,$metodo)){
                 $controlador->$metodo($parrametro);
             }else{
-                echo "NO EXISTE EL METODO SOLICITADO ";
+                
+ require_once "controllers/Errores.php";
+                $error= new Errores();
+                $error->index("404");
             }
         }else{
-            echo "NO EXISTE EL CONTROLADOR SOLICITADO ";
+            
+ require_once "controllers/Errores.php";
+            $error= new Errores();
+            $error->index("404");
         }
 
         print_r($parrametro);

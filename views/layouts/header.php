@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" href="<?php echo assets();?>assets/images/favicon.ico" type="image/ico" />
 
-    <title>Gentelella Alela! | </title>
+    <title>Gentelella Alela! | <?php echo $data["page_name"];?></title>
 
     <!-- Bootstrap -->
     <link href="<?php echo assets();?>css/bootstrap.min.css" rel="stylesheet">
