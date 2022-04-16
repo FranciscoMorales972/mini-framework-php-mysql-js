@@ -3,12 +3,12 @@ class App
 {
     public function __construct()
     {
-        $ruta= !empty($_GET["url"]) ? $_GET["url"] :"Home/index";
+        $ruta= !empty($_GET["url"]) ? $_GET["url"] : CONTROLLER_DEFAULT."/".METHOD_DEFAULT;
 
         $arreglo= explode("/",$ruta);
         $controlador=$arreglo[0];
 
-        $metodo= "index";
+        $metodo= METHOD_DEFAULT;
         $parrametro="";
 
         if (!empty($arreglo[1])) {
@@ -26,8 +26,10 @@ class App
             }
         }
 
-        $dirController="controllers/".$controlador.".php";
+        $dirController= CONTROLLER.DS.$controlador.".php";
         require_once "config/App/Autoload.php";
+        require_once "controllers/Errores.php";
+
         if (file_exists($dirController)) {
             require_once $dirController;
             $controlador =new $controlador();
@@ -35,13 +37,10 @@ class App
                 $controlador->$metodo($parrametro);
             }else{
                 
- require_once "controllers/Errores.php";
                 $error= new Errores();
                 $error->index("404");
             }
         }else{
-            
- require_once "controllers/Errores.php";
             $error= new Errores();
             $error->index("404");
         }

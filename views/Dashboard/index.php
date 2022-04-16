@@ -1,5 +1,11 @@
 <?php headerAdmin($data);?>
 
+ <!-- sidebar menu -->
+            <?php sidebarAdmin();?>
+            <!-- /sidebar menu -->
+
+
+
 <!-- top navigation -->
 <div class="top_nav">
             <div class="nav_menu">
