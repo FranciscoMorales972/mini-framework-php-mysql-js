@@ -19,9 +19,7 @@
 function base_url(){
    return BASE_URL;//llama la constante que tiene la direccion raiz del proyecto y la retorna
 }
-function assets(){
-   return BASE_URL.'public/'; 
-}
+
 
 function arrayFormatter($data)
 {
