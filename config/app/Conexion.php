@@ -33,6 +33,12 @@
          }        
      }
 
+
+
+      //SELECT | INSERT | UPDATE | DELETE | ALTER
+      //manejo de las consultas a la base de datos dinamicamente
+
+
      public static function query($sql,$params=[])
      {
          $db = new Conexion();
@@ -49,8 +55,7 @@
          }
 
 
-         //SELECT | INSERT | UPDATE | DELETE | ALTER
-         //manejo de las consultas a la base de datos dinamicamente
+        
 
          if (strpos($sql,'SELECT')!==false) {
             return $query->rowCount() > 0 ?$query->fetchAll(PDO::FETCH_ASSOC) : false;
@@ -63,7 +68,7 @@
             $link->commit();
             return true;
            }
-           elseif (strpos($sql,'UPDATE')!==false) {
+           elseif (strpos($sql,'DELETE')!==false) {
                 if ($query->rowCount() > 0) {
                     # code...
                     $link->commit();
@@ -75,7 +80,14 @@
                  $link->commit();
                  return true;
         }
-     }
+
+     } //Fin funcion query
+
+
+     
+
+    
+
  }
  
 ?>

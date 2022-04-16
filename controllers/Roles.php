@@ -8,9 +8,11 @@ class Roles extends Controller
 
     public function index()
     {
-        $data=["page_name"=>"Roles de Usuarios",
-                "roles"=>RolesModel::listEqual("tbl_roles",["rolID"=>1],1)
-            ];
+        $data=["page_name"=>"Roles de Usuarios"];
+        //$data=["roles"=>RolesModel::listEqual("tbl_roles")];
+        $datos=["rol"=>"WebSite",
+        "estado_rol"=>1];
+        RolesModel::insert("tbl_roles",$datos);
         $this->view->getView($this,"index",$data);
     }
 }

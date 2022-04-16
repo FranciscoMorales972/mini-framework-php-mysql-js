@@ -407,3 +407,87 @@ Stack trace:
 [14-Apr-2022 10:02:55 Europe/Berlin] Aplicacion Web Iniciada
 [14-Apr-2022 10:02:55 Europe/Berlin] Aplicacion Web Iniciada
 [14-Apr-2022 10:02:55 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:50:25 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:50:26 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:50:53 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:50:53 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:50:55 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:50:55 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:50:55 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:50:55 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:50:55 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:50:55 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:51:01 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:51:01 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:51:01 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:51:01 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:51:01 Europe/Berlin] Aplicacion Web Iniciada
+[15-Apr-2022 23:51:01 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 01:15:08 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 01:15:08 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 01:15:08 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 01:15:08 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 01:15:08 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 01:15:08 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:11:22 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:11:22 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:11:22 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:11:22 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:11:22 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:11:26 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:11:26 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 51
+[16-Apr-2022 02:11:26 Europe/Berlin] PHP Fatal error:  Uncaught Exception in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php(57): Conexion::query('INSERT INTO tbl...', Array)
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Roles.php(15): Models::insert('tbl_roles', Array)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(36): Roles->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 54
+[16-Apr-2022 02:12:34 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:12:34 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php on line 45
+[16-Apr-2022 02:12:34 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 51
+[16-Apr-2022 02:12:34 Europe/Berlin] PHP Fatal error:  Uncaught Exception in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php(60): Conexion::query('INSERT INTO tbl...', Array)
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Roles.php(15): Models::insert('tbl_roles', Array)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(36): Roles->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 54
+[16-Apr-2022 02:12:59 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:12:59 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 51
+[16-Apr-2022 02:12:59 Europe/Berlin] PHP Fatal error:  Uncaught Exception in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Models.php(60): Conexion::query('INSERT INTO tbl...', Array)
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Roles.php(15): Models::insert('tbl_roles', Array)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(36): Roles->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Conexion.php on line 54
+[16-Apr-2022 02:14:12 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:14:12 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:14:12 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:14:12 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:14:12 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:14:12 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:14:42 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:14:42 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:14:42 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:14:42 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:14:42 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:14:42 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:14:42 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:15:27 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:15:27 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:15:27 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:15:27 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:15:27 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:15:27 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:15:27 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:15:45 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:15:45 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:15:45 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:15:45 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:15:45 Europe/Berlin] Aplicacion Web Iniciada
+[16-Apr-2022 02:15:45 Europe/Berlin] Aplicacion Web Iniciada
