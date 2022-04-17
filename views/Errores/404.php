@@ -6,28 +6,28 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="icon" href="<?php echo assets();?>assets/images/favicon.ico" type="image/ico" />
+	<link rel="icon" href="<?= IMG;?>favicon.ico" type="image/ico" />
 
     <title>Gentelella Alela! | <?php echo $data["page_name"];?></title>
 
     <!-- Bootstrap -->
-    <link href="<?php echo assets();?>css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?= CSS;?>bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome
     <link href="css/font-awesome.min.css" rel="stylesheet"> -->
     <!-- NProgress -->
-    <link href="<?php echo assets();?>css/nprogress.css" rel="stylesheet">
+    <link href="<?= CSS;?>nprogress.css" rel="stylesheet">
     <!-- iCheck -->
-    <link href="<?php echo assets();?>css/green.css" rel="stylesheet">
+    <link href="<?= CSS;?>green.css" rel="stylesheet">
 	
     <!-- bootstrap-progressbar -->
-    <link href="<?php echo assets();?>css/bootstrap-progressbar.css" rel="stylesheet">
+    <link href="<?= CSS;?>bootstrap-progressbar.css" rel="stylesheet">
     <!-- JQVMap -->
-    <link href="<?php echo assets();?>css/jqvmap.min.css" rel="stylesheet"/>
+    <link href="<?= CSS;?>jqvmap.min.css" rel="stylesheet"/>
     <!-- bootstrap-daterangepicker -->
-    <link href="<?php echo assets();?>css/daterangepicker.css" rel="stylesheet">
+    <link href="<?= CSS;?>daterangepicker.css" rel="stylesheet">
 
     <!-- Custom Theme Style -->
-    <link href="<?php echo assets();?>css/custom.min.css" rel="stylesheet">
+    <link href="<?= CSS;?>custom.min.css" rel="stylesheet">
   </head>
 
   <body class="nav-md">

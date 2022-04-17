@@ -501,3 +501,125 @@ Stack trace:
 #3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
 #4 {main}
   thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Errores\404.php on line 9
+[17-Apr-2022 02:06:56 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:06:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function assets() in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Errores\404.php:9
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php(13): require_once()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Errores.php(30): Views->getView(Object(Errores), '404', Array)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(45): Errores->index('404')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Errores\404.php on line 9
+[17-Apr-2022 02:06:56 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:06:56 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:06:56 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:06:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function assets() in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Errores\404.php:9
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php(13): require_once()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Errores.php(30): Views->getView(Object(Errores), '404', Array)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(45): Errores->index('404')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Errores\404.php on line 9
+[17-Apr-2022 02:06:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function assets() in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Errores\404.php:9
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php(13): require_once()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Errores.php(30): Views->getView(Object(Errores), '404', Array)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(45): Errores->index('404')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Errores\404.php on line 9
+[17-Apr-2022 02:06:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function assets() in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Errores\404.php:9
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php(13): require_once()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Errores.php(30): Views->getView(Object(Errores), '404', Array)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(45): Errores->index('404')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Errores\404.php on line 9
+[17-Apr-2022 02:06:56 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:06:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function assets() in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Errores\404.php:9
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php(13): require_once()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Errores.php(30): Views->getView(Object(Errores), '404', Array)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(45): Errores->index('404')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Errores\404.php on line 9
+[17-Apr-2022 02:07:00 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:07:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function assets() in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Login\index.php:9
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php(13): require_once()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Login.php(12): Views->getView(Object(Login), 'index')
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(37): Login->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Login\index.php on line 9
+[17-Apr-2022 02:09:18 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:09:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function assets() in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Login\index.php:9
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php(13): require_once()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Login.php(12): Views->getView(Object(Login), 'index')
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(37): Login->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Login\index.php on line 9
+[17-Apr-2022 02:10:34 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:10:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function assets() in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Login\index.php:111
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php(13): require_once()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Login.php(12): Views->getView(Object(Login), 'index')
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(37): Login->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Login\index.php on line 111
+[17-Apr-2022 02:10:37 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:10:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function assets() in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Login\index.php:111
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php(13): require_once()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Login.php(12): Views->getView(Object(Login), 'index')
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(37): Login->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Login\index.php on line 111
+[17-Apr-2022 02:11:05 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:11:30 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:11:33 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:11:44 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:11:55 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:12:24 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:12:27 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:12:31 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:12:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function assets() in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Home\index.php:7
+Stack trace:
+#0 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php(13): require_once()
+#1 C:\xampp\htdocs\Mini Framework PHP JS FETCH\controllers\Home.php(12): Views->getView(Object(Home), 'index', Array)
+#2 C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\app.php(37): Home->index('')
+#3 C:\xampp\htdocs\Mini Framework PHP JS FETCH\index.php(7): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Home\index.php on line 7
+[17-Apr-2022 02:13:15 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:13:21 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:13:21 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:13:25 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:13:25 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:13:25 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:13:25 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:13:25 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:13:25 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:13:32 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:13:41 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:13:45 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:13:46 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:15:09 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:15:17 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:28:01 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:28:19 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:28:23 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:30:58 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:31:01 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:31:07 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:31:19 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:32:01 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:33:04 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 02:33:54 Europe/Berlin] Aplicacion Web Iniciada

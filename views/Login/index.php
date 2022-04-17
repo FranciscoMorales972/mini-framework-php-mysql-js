@@ -6,28 +6,29 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="icon" href="<?php echo assets();?>assets/images/favicon.ico" type="image/ico" />
+	<link rel="icon" href="<?=IMG?>favicon.ico" type="image/ico" />
 
     <title>Gentelella Alela! | Login de Sistema</title>
 
     <!-- Bootstrap -->
-    <link href="<?php echo assets();?>css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?= CSS;?>bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome
     <link href="css/font-awesome.min.css" rel="stylesheet"> -->
     <!-- NProgress -->
-    <link href="<?php echo assets();?>css/nprogress.css" rel="stylesheet">
+    <link href="<?= CSS;?>nprogress.css" rel="stylesheet">
     <!-- iCheck -->
-    <link href="<?php echo assets();?>css/green.css" rel="stylesheet">
+    <link href="<?= CSS;?>green.css" rel="stylesheet">
 	
     <!-- bootstrap-progressbar -->
-    <link href="<?php echo assets();?>css/bootstrap-progressbar.css" rel="stylesheet">
+    <link href="<?= CSS;?>bootstrap-progressbar.css" rel="stylesheet">
     <!-- JQVMap -->
-    <link href="<?php echo assets();?>css/jqvmap.min.css" rel="stylesheet"/>
+    <link href="<?= CSS;?>jqvmap.min.css" rel="stylesheet"/>
     <!-- bootstrap-daterangepicker -->
-    <link href="<?php echo assets();?>css/daterangepicker.css" rel="stylesheet">
-
+    <link href="<?= CSS;?>daterangepicker.css" rel="stylesheet">
+    <!-- Animate.css -->
+    <link href="<?= CSS;?>animate.min.css" rel="stylesheet">
     <!-- Custom Theme Style -->
-    <link href="<?php echo assets();?>css/custom.min.css" rel="stylesheet">
+    <link href="<?= CSS;?>custom.min.css" rel="stylesheet">
   </head>
 
 <body class="login">
@@ -38,16 +39,17 @@
       <div class="login_wrapper">
         <div class="animate form login_form">
           <section class="login_content">
-            <form>
+            <form novalidate>
               <h1>Login Form</h1>
+              
               <div>
-                <input type="text" class="form-control" placeholder="Username" required="" />
+                <input type="email" class="form-control" placeholder="Correo Electronico"  name="userEmail"required="" />
               </div>
               <div>
-                <input type="password" class="form-control" placeholder="Password" required="" />
+                <input type="password" class="form-control" placeholder="Password"  name="userPass" required="" />
               </div>
               <div>
-                <a class="btn btn-default submit" href="index.html">Log in</a>
+                <a class="btn btn-secondary submit" href="index.html">Log in</a>
                 <a class="reset_pass" href="#">Lost your password?</a>
               </div>
 
@@ -63,7 +65,7 @@
 
                 <div>
                   <h1><i class="fa fa-paw"></i> Gentelella Alela!</h1>
-                  <p>©2016 All Rights Reserved. Gentelella Alela! is a Bootstrap 3 template. Privacy and Terms</p>
+                  <p>©2022 All Rights Reserved.</p>
                 </div>
               </div>
             </form>
@@ -99,7 +101,7 @@
 
                 <div>
                   <h1><i class="fa fa-paw"></i> Gentelella Alela!</h1>
-                  <p>©2016 All Rights Reserved. Gentelella Alela! is a Bootstrap 3 template. Privacy and Terms</p>
+                  <p>©2022 All Rights Reserved.</p>
                 </div>
               </div>
             </form>
@@ -108,7 +110,7 @@
       </div>
     </div>
       <!-- Font Awesome -->
-      <script src="<?php echo assets();?>js/font-awesome.js"></script>
+      <script src="<?=JS?>font-awesome.js"></script>
   </body>
 
   </html>
