@@ -623,3 +623,223 @@ Stack trace:
 [17-Apr-2022 02:32:01 Europe/Berlin] Aplicacion Web Iniciada
 [17-Apr-2022 02:33:04 Europe/Berlin] Aplicacion Web Iniciada
 [17-Apr-2022 02:33:54 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:43:42 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:44:00 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:44:23 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:44:23 Europe/Berlin] PHP Warning:  get_class() expects parameter 1 to be object, string given in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 7
+[17-Apr-2022 08:44:23 Europe/Berlin] PHP Warning:  require_once(views//register.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 13
+[17-Apr-2022 08:44:23 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'views//register.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 13
+[17-Apr-2022 08:45:44 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:45:44 Europe/Berlin] PHP Warning:  get_class() expects parameter 1 to be object, string given in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 7
+[17-Apr-2022 08:45:44 Europe/Berlin] PHP Warning:  require_once(views//register.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 13
+[17-Apr-2022 08:45:44 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'views//register.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 13
+[17-Apr-2022 08:45:46 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:45:46 Europe/Berlin] PHP Warning:  get_class() expects parameter 1 to be object, string given in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 7
+[17-Apr-2022 08:45:46 Europe/Berlin] PHP Warning:  require_once(views//register.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 13
+[17-Apr-2022 08:45:46 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'views//register.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 13
+[17-Apr-2022 08:45:50 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:45:54 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:46:35 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:46:35 Europe/Berlin] PHP Warning:  require_once(views/Registro/index.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 13
+[17-Apr-2022 08:46:35 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'views/Registro/index.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Mini Framework PHP JS FETCH\config\app\Views.php on line 13
+[17-Apr-2022 08:46:52 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:49:51 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:50:58 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:51:01 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:52:20 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:53:22 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:53:30 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:53:40 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:53:41 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:53:49 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:53:49 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:58:24 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:58:30 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:58:47 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 08:59:02 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 10:15:02 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 10:15:18 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 10:19:33 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 10:19:36 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 10:20:23 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 10:24:06 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 10:35:43 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 10:36:00 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 10:36:20 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 10:36:20 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 10:36:20 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 10:36:20 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 10:36:20 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 10:36:20 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 19:46:24 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 19:54:53 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 19:55:14 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 19:55:27 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 19:55:29 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 19:55:43 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 20:01:27 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 20:02:12 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:33:13 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:33:16 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:33:53 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:33:56 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:34:26 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:34:31 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:34:31 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:34:32 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:34:32 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:34:46 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:34:48 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:34:49 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:34:49 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:34:50 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:36:54 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:36:59 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:37:05 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:38:56 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:39:57 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:39:57 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:39:57 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:39:59 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:39:59 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:40:00 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:40:05 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:40:41 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:40:53 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:41:03 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:42:08 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:45:13 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:45:13 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[17-Apr-2022 23:45:42 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:45:42 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[17-Apr-2022 23:45:55 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:45:56 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:46:01 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:46:01 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[17-Apr-2022 23:46:01 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:46:01 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:53:44 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:53:44 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[17-Apr-2022 23:53:44 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:53:44 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:55:50 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:55:50 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[17-Apr-2022 23:55:50 Europe/Berlin] Aplicacion Web Iniciada
+[17-Apr-2022 23:55:50 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:06:28 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:06:28 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:06:28 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:06:28 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:09:51 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:09:51 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:09:52 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:09:52 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:09:53 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:13:15 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:13:15 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:13:16 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:13:16 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:13:18 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:13:33 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:13:33 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:13:33 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:13:34 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:13:35 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:14:55 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:15:30 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:17:39 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:17:39 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:17:40 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:17:40 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:17:57 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:18:58 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:18:58 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:18:59 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:18:59 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:19:18 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:31:30 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:31:30 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:31:30 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:31:30 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:31:39 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:31:39 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:31:39 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:31:39 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:31:41 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:32:08 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:32:08 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:32:08 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:32:08 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:32:15 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:41:42 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:41:42 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:41:42 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:41:42 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:42:22 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:42:23 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:42:23 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:42:23 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:42:24 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:42:38 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:42:38 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:42:38 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:42:38 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:44:59 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:44:59 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:45:00 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:45:00 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:45:34 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:45:34 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:45:34 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:45:34 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:45:59 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:45:59 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:45:59 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:45:59 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:47:57 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:47:57 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:47:57 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:47:57 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:48:17 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:48:17 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 00:48:17 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:48:17 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 00:48:28 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:45:29 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:52:46 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:52:46 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 03:52:46 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:52:46 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:53:49 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:53:50 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:55:27 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:55:27 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 03:55:27 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:55:27 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:56:28 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:56:28 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 03:56:28 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:56:28 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:59:43 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:59:43 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 03:59:44 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 03:59:44 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 04:00:34 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 04:00:34 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 04:00:34 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 04:00:35 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 04:01:21 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 04:09:03 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 04:09:03 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 04:09:04 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 04:09:04 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 04:09:17 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 05:56:04 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 05:56:04 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 05:56:06 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 05:56:06 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 05:57:19 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 05:57:19 Europe/Berlin] PHP Notice:  Undefined index: page_name in C:\xampp\htdocs\Mini Framework PHP JS FETCH\views\Registro\index.php on line 12
+[18-Apr-2022 05:57:20 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 05:57:20 Europe/Berlin] Aplicacion Web Iniciada
+[18-Apr-2022 05:57:40 Europe/Berlin] Aplicacion Web Iniciada

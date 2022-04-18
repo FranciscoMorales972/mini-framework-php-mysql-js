@@ -1,116 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <!-- Meta, title, CSS, favicons, etc. -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="icon" href="<?=IMG?>favicon.ico" type="image/ico" />
 
-    <title>Gentelella Alela! | Login de Sistema</title>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!-- Meta, title, CSS, favicons, etc. -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="<?= IMG ?>favicon.ico" type="image/ico" />
 
-    <!-- Bootstrap -->
-    <link href="<?= CSS;?>bootstrap.min.css" rel="stylesheet">
-    <!-- Font Awesome
-    <link href="css/font-awesome.min.css" rel="stylesheet"> -->
-    <!-- NProgress -->
-    <link href="<?= CSS;?>nprogress.css" rel="stylesheet">
-    <!-- iCheck -->
-    <link href="<?= CSS;?>green.css" rel="stylesheet">
-	
-    <!-- bootstrap-progressbar -->
-    <link href="<?= CSS;?>bootstrap-progressbar.css" rel="stylesheet">
-    <!-- JQVMap -->
-    <link href="<?= CSS;?>jqvmap.min.css" rel="stylesheet"/>
-    <!-- bootstrap-daterangepicker -->
-    <link href="<?= CSS;?>daterangepicker.css" rel="stylesheet">
-    <!-- Animate.css -->
-    <link href="<?= CSS;?>animate.min.css" rel="stylesheet">
-    <!-- Custom Theme Style -->
-    <link href="<?= CSS;?>custom.min.css" rel="stylesheet">
-  </head>
+  <title>Gentelella Alela! | Login de Sistema</title>
 
-<body class="login">
-    <div>
-      <a class="hiddenanchor" id="signup"></a>
-      <a class="hiddenanchor" id="signin"></a>
+  <!-- Bootstrap -->
+  
+  <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <!------ Include the above in your HEAD tag ---------->
+</head>
 
-      <div class="login_wrapper">
-        <div class="animate form login_form">
-          <section class="login_content">
-            <form novalidate>
-              <h1>Login Form</h1>
-              
-              <div>
-                <input type="email" class="form-control" placeholder="Correo Electronico"  name="userEmail"required="" />
-              </div>
-              <div>
-                <input type="password" class="form-control" placeholder="Password"  name="userPass" required="" />
-              </div>
-              <div>
-                <a class="btn btn-secondary submit" href="index.html">Log in</a>
-                <a class="reset_pass" href="#">Lost your password?</a>
-              </div>
-
-              <div class="clearfix"></div>
-
-              <div class="separator">
-                <p class="change_link">New to site?
-                  <a href="#signup" class="to_register"> Create Account </a>
-                </p>
-
-                <div class="clearfix"></div>
-                <br />
-
-                <div>
-                  <h1><i class="fa fa-paw"></i> Gentelella Alela!</h1>
-                  <p>©2022 All Rights Reserved.</p>
+<body>
+    <div id="login">
+      <h3 class="text-center text-white pt-5">Login form</h3>
+      <div class="container">
+        <div id="login-row" class="row justify-content-center align-items-center">
+          <div id="login-column" class="col-md-6">
+            <div id="login-box" class="col-md-12">
+              <form id="login-form" class="form" action="" method="post">
+                <h3 class="text-center text-info">Login</h3>
+                <div class="form-group">
+                  <label for="username" class="text-info">Username:</label><br>
+                  <input type="text" name="username" id="username" class="form-control">
                 </div>
-              </div>
-            </form>
-          </section>
-        </div>
-
-        <div id="register" class="animate form registration_form">
-          <section class="login_content">
-            <form>
-              <h1>Create Account</h1>
-              <div>
-                <input type="text" class="form-control" placeholder="Username" required="" />
-              </div>
-              <div>
-                <input type="email" class="form-control" placeholder="Email" required="" />
-              </div>
-              <div>
-                <input type="password" class="form-control" placeholder="Password" required="" />
-              </div>
-              <div>
-                <a class="btn btn-default submit" href="index.html">Submit</a>
-              </div>
-
-              <div class="clearfix"></div>
-
-              <div class="separator">
-                <p class="change_link">Already a member ?
-                  <a href="#signin" class="to_register"> Log in </a>
-                </p>
-
-                <div class="clearfix"></div>
-                <br />
-
-                <div>
-                  <h1><i class="fa fa-paw"></i> Gentelella Alela!</h1>
-                  <p>©2022 All Rights Reserved.</p>
+                <div class="form-group">
+                  <label for="password" class="text-info">Password:</label><br>
+                  <input type="text" name="password" id="password" class="form-control">
                 </div>
-              </div>
-            </form>
-          </section>
+                <div class="form-group">
+                  <label for="remember-me" class="text-info"><span>Remember me</span> <span><input id="remember-me" name="remember-me" type="checkbox"></span></label><br>
+                  <input type="submit" name="submit" class="btn btn-info btn-md" value="submit">
+                </div>
+                <div id="register-link" class="text-right">
+                  <a href="<?="Registro"?>" class="text-info">Register here</a>
+                </div>
+              </form>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-      <!-- Font Awesome -->
-      <script src="<?=JS?>font-awesome.js"></script>
-  </body>
 
-  </html>
+    </div>
+    <p class="text-center my-4"> &copy;2021-<?=date("Y")?> </p>
+  </body>
+</html>

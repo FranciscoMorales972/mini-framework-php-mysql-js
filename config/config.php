@@ -32,7 +32,7 @@ define("UPLOAD",ASSETS."upload/");
 define("DS",DIRECTORY_SEPARATOR);
 define("ROOT",dirname(__DIR__));
 define("CONTROLLER",ROOT . DS . "controllers");
-define("VIEW",ROOT . DS . "views");
+define("VIEW",ROOT . DS . "views/");
 define("LAYOUTS",VIEW. DS."layouts");
 
 
